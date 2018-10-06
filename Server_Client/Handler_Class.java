@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 
-
     public class HandlerClass implements HttpHandler {
 
     public void handle(HttpExchange handler_ex) throws IOException {
