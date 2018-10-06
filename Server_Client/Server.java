@@ -7,7 +7,6 @@ import java.io.IOException;                         // package to implement the 
 
 public class Server {
 
-    
     public static void main(String args[]) throws IOException {
 
         int port = 9000;                                                              // initializing the port#
